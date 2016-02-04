@@ -1,0 +1,103 @@
+{
+    "levels": [
+        {
+            "startsAt": 0,
+            "sizeMin": 100,
+            "sizeMax": 200,
+            "spacingMin": 30,
+            "spacingMax": 100,
+            "tint": "#987852",
+            "bgTint": "#433024"
+        },
+        {
+            "startsAt": 100,
+            "sizeMin": 100,
+            "sizeMax": 180,
+            "spacingMin": 30,
+            "spacingMax": 110,
+            "tint": "#ff0d0d",
+            "bgTint": "#3b0505"
+        },
+        {
+            "startsAt": 200,
+            "sizeMin": 90,
+            "sizeMax": 180,
+            "spacingMin": 30,
+            "spacingMax": 120,
+            "tint": "#0dff1f",
+            "bgTint": "#053c09"
+        },
+        {
+            "startsAt": 300,
+            "sizeMin": 90,
+            "sizeMax": 160,
+            "spacingMin": 30,
+            "spacingMax": 130,
+            "tint": "#0d0dff",
+            "bgTint": "#05053c"
+        },
+        {
+            "startsAt": 400,
+            "sizeMin": 80,
+            "sizeMax": 160,
+            "spacingMin": 30,
+            "spacingMax": 140,
+            "tint": "#ffff0d",
+            "bgTint": "#3e3c04"
+        },
+        {
+            "startsAt": 500,
+            "sizeMin": 80,
+            "sizeMax": 140,
+            "spacingMin": 30,
+            "spacingMax": 150,
+            "tint": "#860dff",
+            "bgTint": "#21053b"
+        },
+        {
+            "startsAt": 600,
+            "sizeMin": 75,
+            "sizeMax": 140,
+            "spacingMin": 40,
+            "spacingMax": 150,
+            "tint": "#0dffc7",
+            "bgTint": "#043e33"
+        },
+        {
+            "startsAt": 700,
+            "sizeMin": 75,
+            "sizeMax": 130,
+            "spacingMin": 50,
+            "spacingMax": 150,
+            "tint": "#ff6a0d",
+            "bgTint": "#391d04"
+        },
+        {
+            "startsAt": 800,
+            "sizeMin": 70,
+            "sizeMax": 130,
+            "spacingMin": 60,
+            "spacingMax": 150,
+            "tint": "#ff0df6",
+            "bgTint": "#340427"
+        },
+        {
+            "startsAt": 900,
+            "sizeMin": 70,
+            "sizeMax": 120,
+            "spacingMin": 70,
+            "spacingMax": 150,
+            "tint": "#79d6ff",
+            "bgTint": "#244757"
+        },
+        {
+            "startsAt": 1000,
+            "sizeMin": 65,
+            "sizeMax": 120,
+            "spacingMin": 80,
+            "spacingMax": 150,
+            "tint": "#f4f4f4",
+            "bgTint": "#0d0d0d"
+        }
+    ]
+}
